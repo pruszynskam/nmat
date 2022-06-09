@@ -22,5 +22,6 @@ k in {2,3,....,n} and structure determines - using the two ways of solving syste
 
 Function raport consists of one parameter only.  
 
+Matrix:
 
 ![image](https://user-images.githubusercontent.com/100381554/172931732-aa9ab3af-5377-4552-ae9c-26a3f089276f.png)
