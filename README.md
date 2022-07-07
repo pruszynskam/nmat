@@ -1,4 +1,4 @@
-# nmat
+# Numerical methods project
 
 For a given symmetric matrix of size n with elements from the set of real numbers and a spectrum of the form:
 
